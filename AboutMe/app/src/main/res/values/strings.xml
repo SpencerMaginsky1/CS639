@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Spencer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="contacts">Contacts</string>
+    <string name="previous">Previous</string>
+
+    <string name="biography">
+        Spencer Maginsky has a Bachelors of Science degree in Computer Science from Roger Williams
+        University. While he was completing his junior year as an undergrad he got an internship at
+        Bay Computer Associates where he worked for a year as an intern, before joining the
+        Software Engineering team full-time for another year. After his time at BCA, he began
+        researching masters programs and enrolled in the Software Engineering and Development program
+        at Pace University NYC, and it set to graduate May 2026.
+    </string>
+    <string name="list_of_hobbies">
+        I like fishing, snowboarding, outdoor walks, video game, and can solve a rubik"'s" cube in
+        under a minute.
+    </string>
+    <string name="contact_info">
+        My email is sm33092p@pace.edu.
+    </string>
+
+    <string name="email">
+        Email: sm33092p@pace.edu
+    </string>
+
+    <string name="contact_page">
+        Going to Contact Page.
+    </string>
+
+</resources>

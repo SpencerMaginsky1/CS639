@@ -7,6 +7,7 @@ printHello()
 
 //Kotlin Basics
 
+// Section 2: Learn about operators and types
 val i: Int = 5
 
 val b1 = 1.toByte()
@@ -35,6 +36,8 @@ println(fish)
 val aquarium = 1
 //aquarium = 2 //'val' cannot be reassigned.
 
+
+// Section 3 Compare conditions and booleans
 val numberOfFish = 5
 val numberOfPlants = 15
 println("There are $numberOfFish fish" + " and $numberOfPlants plants")
@@ -61,6 +64,9 @@ when (numberOfFish){
     else -> println("The tank is overstocked!")
 }
 
+
+//Section 4: Learn about nullability
+
 //var rocks: Int = null //Null cannot be a value of a non-null type 'Int'.
 
 var marbles: Int? = null
@@ -75,6 +81,8 @@ if (fishFood != null){
 fishFood = fishFood?.dec() ?: 0
 println(fishFood)
 
+
+// Section 5: Explore arrays, lists, and loops
 val reef = listOf("yellow tang", "emerald crab", "midnight trigger")
 println(reef)
 

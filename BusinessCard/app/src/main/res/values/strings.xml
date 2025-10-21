@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">
+        Spencer Maginsky
+    </string>
+    <string name="title">
+        Software Engineer
+    </string>
+    <string name="email">
+        sm-fake-email@pace.edu
+    </string>
+    <string name="phone">
+        555-555-5555
+    </string>
+    <string name="social">
+        "@"SpencerMaginsky
+    </string>
+
+</resources>

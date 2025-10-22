@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="birthday_greeting">
+        Wishing You A Very Happy Birthday!
+    </string>
+    <string name="sender">
+        From: Spencer Maginsky
+    </string>
+
+
+</resources>

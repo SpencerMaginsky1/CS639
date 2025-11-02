@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CircleApp by Spencer</string>
+    <string name="button_calculate_new">Calculate a new area</string>
+    <string name="text_field_label">Enter the Radius of your Circle</string>
+    <string name="calculate">Calculate</string>
+</resources>
+

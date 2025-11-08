@@ -1,4 +1,5 @@
 # CS639
 Pace University: Mobile Application Development 
 
-test 
+Updated README.md for the Spencereditbranch
+
